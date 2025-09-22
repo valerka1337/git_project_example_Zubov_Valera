@@ -5,6 +5,6 @@ def main():
     print("Мой мармеладный, я не права")
     print("hello!")
     print('Закрепляющий третий коммит!')
-
+    print("Изменения с GitHub")
 if __name__ == "__main__":
     main()
