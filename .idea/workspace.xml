@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5cf045e-f512-4907-8549-5dd7434397ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Зубов Валерий ИВТ-ИСУ-202Б.iml" afterDir="false" />
+    <list default="true" id="f5cf045e-f512-4907-8549-5dd7434397ba" name="Changes" comment="first ever best commit!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/program_example_Zubov_Valera.py" beforeDir="false" afterPath="$PROJECT_DIR$/program_example_Zubov_Valera.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +37,10 @@
     "Python.program_example Зубов Валерий.executor": "Run",
     "Python.program_example_Zubov_Valera (1).executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RunManager" selected="Python.program_example_Zubov_Valera (1)">
@@ -111,6 +110,15 @@
       <option name="presentableId" value="Default" />
       <updated>1758536808942</updated>
     </task>
+    <task id="LOCAL-00001" summary="first ever best commit!">
+      <option name="closed" value="true" />
+      <created>1758538607818</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758538607818</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,5 +131,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first ever best commit!" />
+    <option name="LAST_COMMIT_MESSAGE" value="first ever best commit!" />
   </component>
 </project>
